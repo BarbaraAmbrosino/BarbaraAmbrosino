@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Sofia Ambrosino
 
-<!--
-**BarbaraAmbrosino/BarbaraAmbrosino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 **Licenciada en Educación** | 💻 **Estudiante de Seguridad Informática** | 🏃‍♀️ **Profesora de Educación Física**  
+💬 Interesada en la comunicación, la tecnología y el aprendizaje continuo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologías y herramientas
+
+- HTML, CSS, JavaScript (básico)
+- Git y GitHub
+- Herramientas educativas digitales (Canva, Genially, Google Workspace)
+- Markdown para documentación
+- Conocimientos introductorios en redes y ciberseguridad
+
+## 📚 Proyectos destacados
+
+- 📘 [Libro digital sobre mediación escolar](https://)  
+  *(Proyecto académico enfocado en comunicación, conflicto y convivencia escolar)*
+
+- 🏃‍♀️ [Blog educativo sobre Educación Física](https://)  
+  *(Recursos didácticos, propuestas lúdicas y reflexiones pedagógicas)*
+
+  ## 🧠 En formación constante
+
+Actualmente amplío mi perfil integrando saberes pedagógicos con herramientas tecnológicas y contenidos vinculados a la ciberseguridad. Me interesa contribuir a una educación digital crítica, accesible y segura.
+
+
+## 📫 Cómo contactarme
+
+- 📧 [barbarasofia.ambrosino@gmail.com](mailto:barbarasofia.ambrosino@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/barbara-sofia-ambrosino)
+
+---
+
+Gracias por visitar mi portafolio 🙂  
+*Este espacio está en construcción permanente, como el aprendizaje.*
+
+---
